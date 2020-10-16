@@ -6,7 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "pre_pub": "standard-version --prerelease alpha",
+    "pre_build": "standard-version --prerelease alpha",
     "patch_build": "standard-version --release-as patch",
     "minor_build": "standard-version --release-as minor",
     "major_build": "standard-version --release-as major"
