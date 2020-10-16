@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0](https://github.com/zhangzheng-zz/vue3_learn/compare/v0.2.0...v1.0.0) (2020-10-16)
+
 ## [0.2.0](https://github.com/zhangzheng-zz/vue3_learn/compare/v0.1.2...v0.2.0) (2020-10-16)
 
 ### [0.1.2](https://github.com/zhangzheng-zz/vue3_learn/compare/v0.1.2-alpha.0...v0.1.2) (2020-10-16)
